@@ -1,7 +1,7 @@
 package main
 
 import (
-	inputreader "adventOfCode2019/datautils"
+	"adventOfCode2020/inputreader"
 	"fmt"
 	"strings"
 )
